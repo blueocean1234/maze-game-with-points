@@ -1,0 +1,68 @@
+{
+    "transparency16": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "tile1": {
+        "data": "hwQQABAAAAD//////////+/u7u7u7u7+7+7u7u7u7v7v7u7u7u7u/u/u7u7u7u7+7+7u7u7u7v7v7u7u7u7u/u/u7u7u7u7+7+7u7u7u7v7v7u7u7u7u/u/u7u7u7u7+7+7u7u7u7v7v7u7u7u7u/u/u7u7u7u7+7+7u7u7u7v7v7u7u7u7u/g==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile"
+    },
+    "tile2": {
+        "data": "hwQQABAAAADv7u7u7u7u/u/u7u7u7u7+7+7u7u7u7v7v7u7u7u7u/u/u7u7u7u7+7+7u7u7u7v7v7u7u7u7u/u/u7u7u7u7+7+7u7u7u7v7v7u7u7u7u/u/u7u7u7u7+7+7u7u7u7v7v7u7u7u7u/u/u7u7u7u7+7+7u7u7u7v7//////////w==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile0"
+    },
+    "tile3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAEREAAAAAAA0MyREAAAAMDMzMyIEAAA0MzMzI0IAADQzIyIzQgBANDMiIiIiBEBFIiJEJCIEQEUiQkREIgRARCJCREQiBABEEUJEREIAAEQRRUQkQgAAQFRVREIEAAAARERERAAAAAAAREQAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile1"
+    },
+    "tile4": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAGZmAAAAAAB2d4ZmAAAAcHd3d4gGAAB2d3d3h2gAAHZ3h4h3aABgdneIiIiIBmBliIhmhogGYGWIaGZmiAZgZohoZmaIBgBmEWhmZmgAAGYRZWaGaAAAYFZVZmgGAAAAZmZmZgAAAAAAZmYAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile2"
+    },
+    "tile5": {
+        "data": "hwQQABAAAAC7u7u7u7u7u8u7u7u7u7u8u8tmZpZpvLu7bGZmZpbGu7tmZmZmZsm7u2ZmZmZmybu7ZmZmZmbJu7tmZmZmZsm7u2ZmZmZmybu7ZmZmZmbJu7tmZmZmZsm7u2ZmZmZmybu7bGZmZpbGu7vLZmaWaby7y7u7u7u7u7y7u7u7u7u7uw==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile3"
+    },
+    "tile6": {
+        "data": "hwQQABAAAAC7u7u7u7u7u8u7u7u7u7u8u6szMxMxvLu7OjMzMxPDu7szMzMzM8G7uzMzMzMzwbu7MzMzMzPBu7szMzMzM8G7uzMzMzMzwbu7MzMzMzPBu7szMzMzM8G7uzMzMzMzwbu7OjMzMxPDu7urMzMTMby7y7u7u7u7u7y7u7u7u7u7uw==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile4"
+    },
+    "level1": {
+        "id": "level1",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDAyMDQwNTAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMTAxMDEwMTAyMDIwMjAyMDIwMTAxMDEwMTBiMDIwMjAxMDEwMjA3MDIwMTAxMDEwMTAxMDIwMjAyMDEwMjAyMDEwMTAyMDIwMjAxMDIwMjAyMDEwMjAyMDIwMTAyMDIwMTAxMDEwMTAxMDEwMjAyMDIwMTAyMDIwMjAxMDIwMjAyMDIwMjAyMDIwMjAyMDEwMjAxMDIwMjAyMDEwMjAyMDIwMjAxMDEwMTAxMDEwMTAxMDEwMjAyMDIwMTAyMDIwMTAxMDEwMTAyMDIwMjAyMDIwMjAyMDIwMjAxMDIwMjAxMDIwMjAxMDIwMjA4MDIwMjAxMDEwMTAxMDEwNjAyMDEwMjAyMDEwMTAxMDEwMjAyMDEwMjAyMDEwMjAyMDIwMTA5MDIwMjAyMDIwMjAyMDIwMTAyMDIwMTAyMDIwMjAyMDEwMjAyMDIwMjAyMDIwMjAxMDIwYTAxMDIwMjAyMDIwMTAxMDEwMTAxMDEwMTAxMDEwMjAyMDEwMjAyMDIwMTAxMDEwMTAyMDIwMTAyMDIwMTAxMDIwMTAxMDIwMjAxMDIwMjAyMDIwMTAxMDIwMjAyMDEwMTAxMDIwMjAzMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIyMDIyMjIyMjIyMjIyMjAyMDAyMDIyMjIwMDAwMjAwMjIwMjAwMDAwMjAyMjIwMDIyMDIyMjAyMjIwMjIyMDAyMDAwMDIwMjIyMDIyMjAyMjIyMjIyMjIwMjAyMjIwMjIwMjAwMDAwMDIwMjIyMDAyMDAyMDIyMjIyMjIyMjAwMjIyMjAwMjIyMDAwMDAwMDIyMjAwMDAyMjIwMDIyMjAyMjAyMjIyMjIyMDAyMjIyMjIwMjIyMjIyMjAwMDIyMjIwMDAwMDAwMDIwMDIyMjAyMDAyMDAyMjIwMDAyMjAwMDIyMjIwMDIyMDIwMDIyMDAyMjIyMjIyMjIyMjIyMg==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.castle.tilePath5",
+            "sprites.castle.saplingPine",
+            "sprites.dungeon.chestOpen",
+            "myTiles.tile1",
+            "myTiles.tile2",
+            "sprites.vehicle.roadHorizontal",
+            "sprites.dungeon.chestClosed",
+            "myTiles.tile3",
+            "myTiles.tile4",
+            "myTiles.tile5",
+            "myTiles.tile6"
+        ],
+        "displayName": "level1"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
